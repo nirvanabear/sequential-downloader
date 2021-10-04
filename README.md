@@ -19,3 +19,6 @@ Repository is not currently actively maintained. Code was functional as of Octob
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Credits
+Thank you to [Sam Wilkinson](https://towardsdatascience.com/progress-bars-in-python-4b44e8a4c482) and [Chaitanya Baweja](https://towardsdatascience.com/how-to-download-an-image-using-python-38a75cfa21c) for their blog posts on this subject.
