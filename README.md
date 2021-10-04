@@ -9,7 +9,8 @@ Jupyter notebook which downloads sequential batches of images and displays a pro
     * ipywidgets
 
 
-* Using JupyterLab with ipywidgets requires activation with the following sequence in terminal:
+* Using JupyterLab with ipywidgets requires activation with the following sequence in terminal:  
+  
 'pipenv install ipywidgets'  
 'jupyter nbextension enable --py widgetsnbextension'  
 'jupyter labextension install @jupyter-widgets/jupyterlab-manager'  
